@@ -1,2 +1,2 @@
 # test
-[Home][https://Crazy-Max-Blog.github.io/test]
+[https://Crazy-Max-Blog.github.io/test][Home]
